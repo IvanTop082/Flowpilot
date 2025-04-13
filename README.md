@@ -62,5 +62,7 @@ Open your browser and go to http://localhost:3000 to start interacting with Auto
 
 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/6eef15a5-1836-4432-83fa-86833d0dfe75)
+![image](https://github.com/user-attachments/assets/72a6a9b6-6d50-442e-bdec-34ab82ba9a31)
+![image](https://github.com/user-attachments/assets/d84ff943-c84a-4597-b515-5e8380f67bf9)
+![image](https://github.com/user-attachments/assets/b8e75389-9681-4765-8536-ea7df7f75b42)
 
