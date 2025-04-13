@@ -44,7 +44,7 @@ Follow these steps to quickly set up and run the project locally:
     # Run the backend server
     pnpm run dev
     
-    🎨 Frontend Setup
+🎨 Frontend Setup
     
     # Navigate into the frontend folder
     cd new/flowpilot
@@ -59,10 +59,8 @@ Follow these steps to quickly set up and run the project locally:
 
 Open your browser and go to http://localhost:3000 to start interacting with AutoPilot Liquidation Manager.
 
-🎥 Demo Video
-
-Watch our demo video to see the AutoPilot Liquidation Manager in action!
 
 📸 Screenshots
 
-Add clear screenshots here showcasing the app interface and key functionalities
+![image](https://github.com/user-attachments/assets/6eef15a5-1836-4432-83fa-86833d0dfe75)
+
