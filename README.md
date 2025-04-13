@@ -20,11 +20,11 @@ Starknet: Secure blockchain interactions and efficient transaction execution.
 
 Snak AI: Intelligent intent recognition and automated DeFi strategy management.
 
-Cursor AI: Enhanced productivity with streamlined coding, testing, and debugging.
-
 Next.js: Modern React framework for a seamless frontend experience.
 
 Node.js: Robust backend API management and integration.
+
+MongoDB: Authentication using next-auth, and sessions. Also, tracks history and notifications for users.
 
 🖥️ Setup & Installation
 
