@@ -47,7 +47,8 @@ pnpm run dev
 Frontend Setup
 
 # Navigate to frontend
-cd ./flowpilot-main
+cd new
+cd flowpilot
 
 # Install dependencies
 pnpm install
